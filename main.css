@@ -1,0 +1,20 @@
+.wrapper {
+    background-color: #36384c;
+    color: #e3bab3;
+    /* padding: 1px; */
+}
+
+.nav {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    text-align: center;
+    background-color: #849974;
+    color: #613a43;
+}
+
+.musicvideo {
+    background-color: #e3bab3;
+    border: 100px ridge #613a43;
+}
+
